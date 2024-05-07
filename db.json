@@ -112,26 +112,5 @@
     }
   ],
   "cartItems": [
-    {
-      "id": "7ac3",
-      "name": "Red Chili",
-      "price": 14.99,
-      "amount": 13,
-      "imgURL": "https://github.com/ThanhNgan110/javascript-training/assets/94752353/3a340fda-d1c5-4c3f-abf3-1b78ae8547cf"
-    },
-    {
-      "id": "55a0",
-      "name": "Big Potatos",
-      "price": 14.99,
-      "amount": 1,
-      "imgURL": "https://github.com/ThanhNgan110/javascript-training/assets/94752353/f9abd041-860e-46ce-b6c2-a11543da8cba"
-    },
-    {
-      "id": "824e",
-      "name": "Green Capsicum",
-      "price": 14.99,
-      "amount": 7,
-      "imgURL": "https://github.com/ThanhNgan110/javascript-training/assets/94752353/91e44832-16c1-4c2a-99e6-46ffcc70a9b5"
-    }
   ]
 }
