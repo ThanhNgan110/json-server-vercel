@@ -13,7 +13,7 @@
 	],
 	"headers": [
 		{
-			"source": "/(.*)",
+			"source": "/db.json",
 			"headers": [
 				{
 					"key": "Cache-Control",
